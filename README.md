@@ -1,3 +1,11 @@
-# flask_app_deploy
+# SkyPro
 
-Простейший проект на Flask с миграциями для курса Python разработки от SkyPro
+## 26.2 Homework
+
+***
+About project
+***
+
+* Docker
+* VM
+* GitHub Actions
